@@ -15,7 +15,7 @@ This one is a Business Landing Page which is created using HTML & CSS. This webs
 
 ![Project 12](thumbnail.png)
 
-## 🔗__This is Eleventh Project of Html & CSS with mobile responsive_
+## 🔗__This is twelfth Project of Html & CSS with mobile responsive_
 
 A HTML, CSS Project. Made with ♥ by Satyam Jaysawal. There will be a Business Landing Page. In this project we gonna learn how we can create a website using  HTML, CSS. The main purpose of the project is to get more used to with HTML, CSS. Later on, in this project, we gonna learn how we can deploy this site using Netlify. Also, we gonna learn the process from the zero to end and make the website ready for live production.
 
